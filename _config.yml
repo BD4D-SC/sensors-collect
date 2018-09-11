@@ -17,7 +17,7 @@ title: Sensors collecting on FIT IoT-LAB platform
 email: admin@iot-lab.info
 description: >- # this means to ignore newlines until "baseurl:"
   Project of sensors collecting on FIT IoT-LAB platform using M3 nodes
-baseurl: ""
+baseurl: "jekyll"
 url: ""
 github_username:  iot-lab
 
